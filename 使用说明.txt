@@ -1,0 +1,7 @@
+只支持maya2022以上（python3.x）
+1.解压到英文路径
+2.把run.py往maya窗口里丢
+3.在python命令窗口输入以下命令并且运行
+
+import ReNema_and_Mem
+mya1 =ReNema_and_Mem.Child()
